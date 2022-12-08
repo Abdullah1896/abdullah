@@ -1,0 +1,30 @@
+##################
+Transaction Number sequence:0
+Transaction Date:11/11/2022
+Transaction Amount:2000.00
+Transaction State: DECLINED_INSUFFECIENT_FUND
+Terminal Max Amount:5000.00
+Card Holder Name:abdullah saad hashish
+PAN:1234567890123456
+Card Expiry Date:01/23
+###################
+##################
+Transaction Number sequence:1
+Transaction Date:11/11/2022
+Transaction Amount:100.00
+Transaction State: DECLINED_STOLEN_CARD
+Terminal Max Amount:5000.00
+Card Holder Name:udacity udacity udacity 
+PAN:8877665544332211
+Card Expiry Date:04/24
+###################
+##################
+Transaction Number sequence:2
+Transaction Date:11/11/2022
+Transaction Amount:2000.00
+Transaction State: APPROVED
+Terminal Max Amount:5000.00
+Card Holder Name:abdullah saad hashish
+PAN:1122334455667788
+Card Expiry Date:01/25
+###################
